@@ -1,0 +1,31 @@
+addPage stack_datastructure_wiki: Done.
+queryFindPagesWhichContainWord delhi: No webpage contains word delhi
+queryFindPagesWhichContainWord stack: stack_datastructure_wiki
+queryFindPagesWhichContainWord wikipedia: stack_datastructure_wiki
+queryFindPositionsOfWordInAPage stack stack_overflow: Error- Webpage stack_overflow not found.
+queryFindPagesWhichContainWord allain: No webpage contains word allain
+addPage stack_cprogramming: Done.
+queryFindPagesWhichContainWord allain: stack_cprogramming
+queryFindPagesWhichContainWord C: stack_cprogramming
+queryFindPagesWhichContainWord C++: stack_cprogramming
+addPage stack_oracle: Done.
+queryFindPagesWhichContainWord stack: stack_oracle, stack_datastructure_wiki, stack_cprogramming
+queryFindPagesWhichContainWord jdk: stack_oracle
+addPage stackoverflow: Done.
+queryFindPagesWhichContainWord function: stackoverflow, stack_cprogramming, stack_datastructure_wiki
+addPage stacklighting: Done.
+addPage stackmagazine: Done.
+queryFindPagesWhichContainWord magazines: stackmagazine
+addPage stacks_and_queues: Done.
+addPage cmu_stack: Done.
+addPage studytonight: Done.
+addPage auckland_stack: Done.
+addPage geeks_quiz: Done.
+queryFindPagesWhichContainAllWords data structure first: stacks_and_queues, stack_cprogramming, cmu_stack, studytonight, stack_datastructure_wiki, geeks_quiz
+queryFindPagesWhichContainAnyOfTheseWords stack data structure first: stacks_and_queues, stack_cprogramming, cmu_stack, studytonight, stacklighting, stack_datastructure_wiki, geeks_quiz, stackoverflow, stack_oracle, auckland_stack, stackmagazine
+queryFindPagesWhichContainPhrase data structure: stack_cprogramming, cmu_stack, stacks_and_queues, studytonight, stack_datastructure_wiki, geeks_quiz
+queryFindPositionsOfWordInAPage stack stack_datastructure_wiki: 1, 14, 71, 130, 142, 153, 170, 191, 204, 208, 223, 228, 256, 267, 289, 294, 326, 336, 350, 363, 382, 395, 409, 436, 441, 459
+queryFindPagesWhichContainWord stack: stacklighting, stack_oracle, stacks_and_queues, stackmagazine, auckland_stack, studytonight, stack_datastructure_wiki, cmu_stack, geeks_quiz, stack_cprogramming, stackoverflow
+queryFindPagesWhichContainWord applications: geeks_quiz, studytonight, cmu_stack
+queryFindPagesWhichContainWord stack: stacklighting, stack_oracle, stacks_and_queues, stackmagazine, auckland_stack, studytonight, stack_datastructure_wiki, cmu_stack, geeks_quiz, stack_cprogramming, stackoverflow
+queryFindPositionsOfWordInAPage stack stack_datastructure_wiki: 1, 14, 71, 130, 142, 153, 170, 191, 204, 208, 223, 228, 256, 267, 289, 294, 326, 336, 350, 363, 382, 395, 409, 436, 441, 459
